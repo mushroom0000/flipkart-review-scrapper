@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flipkart-review-scrapper'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02392D361FF94BFEA32F724B07DC1037 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6EAAFDFFAEF4A2AA996F03DA1A10AF2 }}
